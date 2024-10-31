@@ -64,31 +64,31 @@ const linksList: EssentialLinkProps[] = [
     title: 'Front project en Github',
     caption: 'github.com/sotillo257/NoviaVirtualFront',
     icon: 'code',
-    link: 'https://github.com/sotillo257'
+    link: 'https://github.com/sotillo257/NoviaVirtualFront'
   },
   {
     title: 'Back project en Github',
     caption: 'github.com/sotillo257/NoviaVirtualBack',
     icon: 'code',
-    link: 'https://github.com/sotillo257'
+    link: 'https://github.com/sotillo257/NoviaVirtual.BackEnd'
   },
   {
     title: 'Discord Chat Channel',
     caption: 'chat.quasar.dev',
     icon: 'chat',
-    link: 'https://chat.quasar.dev'
+    link: 'https://discord.gg/BdA8qMUV'
   },
   {
     title: 'Twitter',
     caption: '@SotilloNet',
     icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev'
+    link: 'https://www.youtube.com/@shuzone?sub_confirmation=1'
   },
   {
     title: 'Youtube',
     caption: '@shuzone',
     icon: 'public',
-    link: 'https://www.youtube.com/@shuzone'
+    link: 'https://www.youtube.com/@shuzone?sub_confirmation=1'
   },
   {
     title: 'Quasar Awesome',
